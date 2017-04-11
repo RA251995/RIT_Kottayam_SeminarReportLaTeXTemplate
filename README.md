@@ -1,1 +1,1 @@
-# SeminarReportLaTeXTemplate
+# Seminar Report LaTeX Template
